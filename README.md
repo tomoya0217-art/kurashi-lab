@@ -14,10 +14,12 @@
 Cloudflare Pagesでは以下の設定で公開できます。
 
 - Framework preset: `None`
-- Build command: 空欄
+- Deploy command: `npx wrangler pages deploy outputs --project-name=kurashi-lab`
 - Build output directory: `outputs`
 
 `wrangler.toml` にも `pages_build_output_dir = "outputs"` を設定しています。
+
+`outputs/index.html` が公開トップページです。
 
 ## ローカル確認
 
