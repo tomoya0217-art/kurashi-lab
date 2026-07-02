@@ -28,6 +28,15 @@
     });
 
     const data = window.IPHONE_LIFE_DATA;
+    const dataScript = document.querySelector('script[src$="site-data.js"]');
+    const resolveSiteAsset = (src) => {
+      if (!src) return "";
+      try {
+        return new URL(src, dataScript?.src || document.baseURI).href;
+      } catch {
+        return src;
+      }
+    };
     if (data) {
       document.querySelectorAll("[data-price-updated]").forEach((node) => {
         node.textContent = data.priceUpdated || "未更新";
@@ -36,7 +45,7 @@
         const product = data.products?.[img.dataset.productImage];
         if (!product) return;
         img.alt = product.imageAlt || img.alt;
-        if (product.imageSrc) img.src = product.imageSrc;
+        if (product.imageSrc) img.src = resolveSiteAsset(product.imageSrc);
       });
       document.querySelectorAll("[data-price]").forEach((cell) => {
         const product = data.products?.[cell.dataset.product];

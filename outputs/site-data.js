@@ -11,17 +11,17 @@ window.IPHONE_LIFE_DATA = {
     primaryShopOrder: ["amazon", "rakuten", "yahoo"],
     shops: {
       amazon: {
-        label: "在庫を確認する",
+        label: "Amazonで見る",
         shortLabel: "Amazon",
         className: "amazon",
       },
       rakuten: {
-        label: "ポイント還元を見る",
+        label: "楽天市場で見る",
         shortLabel: "楽天市場",
         className: "rakuten",
       },
       yahoo: {
-        label: "PayPay還元を見る",
+        label: "Yahoo!ショッピングで見る",
         shortLabel: "Yahoo!ショッピング",
         className: "yahoo",
       },
@@ -63,8 +63,8 @@ window.IPHONE_LIFE_DATA = {
     "airpods-pro-3": {
       name: "AirPods Pro 3",
       brand: "Apple",
-      imageSrc: "",
-      imageAlt: "AirPods Pro 3の製品画像プレースホルダー",
+      imageSrc: "assets/product-airpods-pro-3-generated.webp",
+      imageAlt: "AirPods Pro 3向けの白いワイヤレスイヤホンと充電ケースのオリジナル製品画像",
       prices: {
         official: "¥39,800",
         amazon: "価格未取得",
