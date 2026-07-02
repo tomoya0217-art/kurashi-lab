@@ -1,0 +1,23 @@
+{
+  "name": "暮らしの選び方ラボ",
+  "short_name": "暮らしラボ",
+  "description": "買ってから後悔しない、暮らしのアイテム選びをサポートする比較ブログ。",
+  "lang": "ja",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f4ef",
+  "theme_color": "#0f6b59",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

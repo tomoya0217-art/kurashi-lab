@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1100" role="img" aria-label="暮らしのアイテム選びを表すデスクと生活用品">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#f7f4ef" offset="0"/>
+      <stop stop-color="#dcebe4" offset="0.52"/>
+      <stop stop-color="#f6ded1" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="1100" fill="url(#g)"/>
+  <rect x="150" y="190" width="590" height="720" rx="44" fill="#ffffff" opacity=".84"/>
+  <rect x="880" y="220" width="670" height="420" rx="42" fill="#ffffff" opacity=".72"/>
+  <rect x="960" y="720" width="420" height="160" rx="36" fill="#0f6b59" opacity=".18"/>
+  <circle cx="1320" cy="390" r="118" fill="#0f6b59" opacity=".24"/>
+  <circle cx="510" cy="350" r="98" fill="#d66b3d" opacity=".22"/>
+  <path d="M260 708c116-74 232-74 348 0 116 74 232 74 348 0 116-74 232-74 348 0" fill="none" stroke="#0f6b59" stroke-width="24" stroke-linecap="round" opacity=".48"/>
+  <rect x="290" y="480" width="320" height="38" rx="19" fill="#1e2a24" opacity=".18"/>
+  <rect x="290" y="550" width="390" height="38" rx="19" fill="#1e2a24" opacity=".14"/>
+  <rect x="960" y="330" width="360" height="34" rx="17" fill="#1e2a24" opacity=".16"/>
+  <rect x="960" y="402" width="460" height="34" rx="17" fill="#1e2a24" opacity=".12"/>
+  <rect x="960" y="474" width="300" height="34" rx="17" fill="#1e2a24" opacity=".12"/>
+</svg>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>暮らしの選び方ラボ</title>
+    <link>https://kurashi-lab.pages.dev/</link>
+    <description>買ってから後悔しない、暮らしのアイテム選びをサポートする比較ブログ。</description>
+    <language>ja</language>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>iPhoneとAndroidどっちがおすすめ？</title>
+      <link>https://kurashi-lab.pages.dev/articles/iphone-android.html</link>
+      <guid>https://kurashi-lab.pages.dev/articles/iphone-android.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
+      <description>iPhoneとAndroidの違いを、価格、操作性、カメラ、アプリ、セキュリティ、長期利用、下取りまで比較。後悔しないスマホ選びを解説します。</description>
+    </item>
+    <item>
+      <title>最新iPhoneを安く買う方法</title>
+      <link>https://kurashi-lab.pages.dev/articles/cheap-iphone.html</link>
+      <guid>https://kurashi-lab.pages.dev/articles/cheap-iphone.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
+      <description>最新iPhoneを安く買う方法をApple Store、キャリア、家電量販店、中古、下取り、分割払い、乗り換えキャンペーン別に解説します。</description>
+    </item>
+    <item>
+      <title>ワイヤレスイヤホンおすすめ比較</title>
+      <link>https://kurashi-lab.pages.dev/articles/wireless-earphones.html</link>
+      <guid>https://kurashi-lab.pages.dev/articles/wireless-earphones.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
+      <description>ワイヤレスイヤホンを音質、ノイズキャンセリング、通話品質、バッテリー、装着感、防水、価格帯で比較。用途別の選び方を解説します。</description>
+    </item>
+    <item>
+      <title>モバイルバッテリーおすすめ比較</title>
+      <link>https://kurashi-lab.pages.dev/articles/mobile-battery.html</link>
+      <guid>https://kurashi-lab.pages.dev/articles/mobile-battery.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
+      <description>モバイルバッテリーを容量、出力、重さ、充電速度、ケーブル内蔵、安全性、飛行機持ち込みの観点で比較。用途別に選び方を解説します。</description>
+    </item>
+    <item>
+      <title>スマートウォッチおすすめ比較</title>
+      <link>https://kurashi-lab.pages.dev/articles/smartwatch.html</link>
+      <guid>https://kurashi-lab.pages.dev/articles/smartwatch.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
+      <description>スマートウォッチを健康管理、通知、決済、電池持ち、iPhone/Android連携、運動記録の観点で比較。用途別に解説します。</description>
+    </item>
+    <item>
+      <title>ドラム式洗濯機おすすめ比較</title>
+      <link>https://kurashi-lab.pages.dev/articles/drum-washer.html</link>
+      <guid>https://kurashi-lab.pages.dev/articles/drum-washer.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
+      <description>ドラム式洗濯機を乾燥性能、電気代、水道代、設置スペース、手入れ、洗浄力、家族人数で比較。設置サイズの失敗を防ぎます。</description>
+    </item>
+    <item>
+      <title>ロボット掃除機おすすめ比較</title>
+      <link>https://kurashi-lab.pages.dev/articles/robot-vacuum.html</link>
+      <guid>https://kurashi-lab.pages.dev/articles/robot-vacuum.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
+      <description>ロボット掃除機を吸引力、水拭き、マッピング、段差、家具配置、メンテナンス、ペット毛で比較。向く家と向かない家を解説します。</description>
+    </item>
+    <item>
+      <title>電動歯ブラシおすすめ比較</title>
+      <link>https://kurashi-lab.pages.dev/articles/electric-toothbrush.html</link>
+      <guid>https://kurashi-lab.pages.dev/articles/electric-toothbrush.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
+      <description>電動歯ブラシを音波式、回転式、替えブラシ代、磨きやすさ、携帯性、防水、充電で比較。手磨きとの違いも解説します。</description>
+    </item>
+    <item>
+      <title>光回線おすすめ比較</title>
+      <link>https://kurashi-lab.pages.dev/articles/fiber-internet.html</link>
+      <guid>https://kurashi-lab.pages.dev/articles/fiber-internet.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
+      <description>光回線を戸建て/マンション、速度、月額料金、工事費、解約金、スマホセット割、提供エリアで比較。工事可否も解説します。</description>
+    </item>
+    <item>
+      <title>格安SIMおすすめ比較</title>
+      <link>https://kurashi-lab.pages.dev/articles/cheap-sim.html</link>
+      <guid>https://kurashi-lab.pages.dev/articles/cheap-sim.html</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
+      <description>格安SIMを通信速度、月額料金、通話、データ容量、店舗サポート、乗り換え手順で比較。昼休みや夕方の速度低下も解説します。</description>
+    </item>
+  </channel>
+</rss>
