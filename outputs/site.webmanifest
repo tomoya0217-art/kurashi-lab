@@ -1,13 +1,13 @@
 {
-  "name": "暮らしの選び方ラボ",
-  "short_name": "暮らしラボ",
-  "description": "買ってから後悔しない、暮らしのアイテム選びをサポートする比較ブログ。",
+  "name": "iPhoneイヤホン選びラボ",
+  "short_name": "iPhone音ラボ",
+  "description": "iPhoneで本当に使いやすいイヤホン・ヘッドホンを、わかりやすく徹底比較",
   "lang": "ja",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#f7f4ef",
-  "theme_color": "#0f6b59",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
   "icons": [
     {
       "src": "/assets/favicon.svg",

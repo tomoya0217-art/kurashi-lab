@@ -1,80 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>暮らしの選び方ラボ</title>
-    <link>https://kurashi-lab.pages.dev/</link>
-    <description>買ってから後悔しない、暮らしのアイテム選びをサポートする比較ブログ。</description>
-    <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0900</lastBuildDate>
-    <item>
-      <title>iPhoneとAndroidどっちがおすすめ？</title>
-      <link>https://kurashi-lab.pages.dev/articles/iphone-android.html</link>
-      <guid>https://kurashi-lab.pages.dev/articles/iphone-android.html</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
-      <description>iPhoneとAndroidの違いを、価格、操作性、カメラ、アプリ、セキュリティ、長期利用、下取りまで比較。後悔しないスマホ選びを解説します。</description>
-    </item>
-    <item>
-      <title>最新iPhoneを安く買う方法</title>
-      <link>https://kurashi-lab.pages.dev/articles/cheap-iphone.html</link>
-      <guid>https://kurashi-lab.pages.dev/articles/cheap-iphone.html</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
-      <description>最新iPhoneを安く買う方法をApple Store、キャリア、家電量販店、中古、下取り、分割払い、乗り換えキャンペーン別に解説します。</description>
-    </item>
-    <item>
-      <title>ワイヤレスイヤホンおすすめ比較</title>
-      <link>https://kurashi-lab.pages.dev/articles/wireless-earphones.html</link>
-      <guid>https://kurashi-lab.pages.dev/articles/wireless-earphones.html</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
-      <description>ワイヤレスイヤホンを音質、ノイズキャンセリング、通話品質、バッテリー、装着感、防水、価格帯で比較。用途別の選び方を解説します。</description>
-    </item>
-    <item>
-      <title>モバイルバッテリーおすすめ比較</title>
-      <link>https://kurashi-lab.pages.dev/articles/mobile-battery.html</link>
-      <guid>https://kurashi-lab.pages.dev/articles/mobile-battery.html</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
-      <description>モバイルバッテリーを容量、出力、重さ、充電速度、ケーブル内蔵、安全性、飛行機持ち込みの観点で比較。用途別に選び方を解説します。</description>
-    </item>
-    <item>
-      <title>スマートウォッチおすすめ比較</title>
-      <link>https://kurashi-lab.pages.dev/articles/smartwatch.html</link>
-      <guid>https://kurashi-lab.pages.dev/articles/smartwatch.html</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
-      <description>スマートウォッチを健康管理、通知、決済、電池持ち、iPhone/Android連携、運動記録の観点で比較。用途別に解説します。</description>
-    </item>
-    <item>
-      <title>ドラム式洗濯機おすすめ比較</title>
-      <link>https://kurashi-lab.pages.dev/articles/drum-washer.html</link>
-      <guid>https://kurashi-lab.pages.dev/articles/drum-washer.html</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
-      <description>ドラム式洗濯機を乾燥性能、電気代、水道代、設置スペース、手入れ、洗浄力、家族人数で比較。設置サイズの失敗を防ぎます。</description>
-    </item>
-    <item>
-      <title>ロボット掃除機おすすめ比較</title>
-      <link>https://kurashi-lab.pages.dev/articles/robot-vacuum.html</link>
-      <guid>https://kurashi-lab.pages.dev/articles/robot-vacuum.html</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
-      <description>ロボット掃除機を吸引力、水拭き、マッピング、段差、家具配置、メンテナンス、ペット毛で比較。向く家と向かない家を解説します。</description>
-    </item>
-    <item>
-      <title>電動歯ブラシおすすめ比較</title>
-      <link>https://kurashi-lab.pages.dev/articles/electric-toothbrush.html</link>
-      <guid>https://kurashi-lab.pages.dev/articles/electric-toothbrush.html</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
-      <description>電動歯ブラシを音波式、回転式、替えブラシ代、磨きやすさ、携帯性、防水、充電で比較。手磨きとの違いも解説します。</description>
-    </item>
-    <item>
-      <title>光回線おすすめ比較</title>
-      <link>https://kurashi-lab.pages.dev/articles/fiber-internet.html</link>
-      <guid>https://kurashi-lab.pages.dev/articles/fiber-internet.html</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
-      <description>光回線を戸建て/マンション、速度、月額料金、工事費、解約金、スマホセット割、提供エリアで比較。工事可否も解説します。</description>
-    </item>
-    <item>
-      <title>格安SIMおすすめ比較</title>
-      <link>https://kurashi-lab.pages.dev/articles/cheap-sim.html</link>
-      <guid>https://kurashi-lab.pages.dev/articles/cheap-sim.html</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate>
-      <description>格安SIMを通信速度、月額料金、通話、データ容量、店舗サポート、乗り換え手順で比較。昼休みや夕方の速度低下も解説します。</description>
-    </item>
-  </channel>
-</rss>
+<rss version="2.0"><channel><title>iPhoneイヤホン選びラボ</title><link>https://kurashi-lab.pages.dev/</link><description>iPhoneで本当に使いやすいイヤホン・ヘッドホンを、わかりやすく徹底比較</description><language>ja</language><lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0900</lastBuildDate>
+    <item><title>iPhoneユーザーにおすすめのイヤホン・ヘッドホン徹底比較</title><link>https://kurashi-lab.pages.dev/articles/iphone-earphones-ranking.html</link><guid>https://kurashi-lab.pages.dev/articles/iphone-earphones-ranking.html</guid><pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate><description>AirPodsだけでなく、Sony・Bose・Anker・Beatsなども含めて、iPhoneで使いやすいイヤホンとヘッドホンを整理します。</description></item>
+    <item><title>AirPods Pro 3は本当に買うべき？iPhoneユーザー目線で解説</title><link>https://kurashi-lab.pages.dev/articles/airpods-pro-3-review.html</link><guid>https://kurashi-lab.pages.dev/articles/airpods-pro-3-review.html</guid><pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate><description>AirPods Pro 3を検討するときに見るべきポイントを、iPhone連携・価格・代替候補の観点で解説します。</description></item>
+    <item><title>AirPods Pro 3とSony WF-1000XM6を徹底比較</title><link>https://kurashi-lab.pages.dev/articles/airpods-pro-3-vs-sony-wf-1000xm6.html</link><guid>https://kurashi-lab.pages.dev/articles/airpods-pro-3-vs-sony-wf-1000xm6.html</guid><pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate><description>iPhoneとの相性を重視するAirPods Pro 3と、音質・ノイキャン重視で候補に入りやすいSony WF-1000XM6を比較します。</description></item>
+    <item><title>iPhone向けノイズキャンセリングイヤホンおすすめランキング</title><link>https://kurashi-lab.pages.dev/articles/noise-cancelling-earphones-iphone.html</link><guid>https://kurashi-lab.pages.dev/articles/noise-cancelling-earphones-iphone.html</guid><pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate><description>通勤・通学やカフェ作業で使いやすいノイズキャンセリング重視の候補を、編集方針に基づいて整理します。</description></item>
+    <item><title>1万円台で買えるiPhone向けワイヤレスイヤホン比較</title><link>https://kurashi-lab.pages.dev/articles/budget-earphones-iphone.html</link><guid>https://kurashi-lab.pages.dev/articles/budget-earphones-iphone.html</guid><pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate><description>価格を抑えながら、接続の安定性・AAC対応・使いやすさを見落とさずに選ぶための比較ガイドです。</description></item>
+    <item><title>通勤・通学におすすめのiPhone向けイヤホン</title><link>https://kurashi-lab.pages.dev/articles/commute-earphones-iphone.html</link><guid>https://kurashi-lab.pages.dev/articles/commute-earphones-iphone.html</guid><pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate><description>電車・バス・徒歩で使いやすいイヤホンを、ノイキャン・外音取り込み・装着感から整理します。</description></item>
+    <item><title>Web会議・通話に強いiPhone向けイヤホン比較</title><link>https://kurashi-lab.pages.dev/articles/call-quality-earphones-iphone.html</link><guid>https://kurashi-lab.pages.dev/articles/call-quality-earphones-iphone.html</guid><pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate><description>マイク品質だけでなく、接続安定性・片耳利用・長時間装着まで含めてWeb会議向け候補を比較します。</description></item>
+    <item><title>iPhoneで使いやすいヘッドホンおすすめ比較</title><link>https://kurashi-lab.pages.dev/articles/headphones-for-iphone.html</link><guid>https://kurashi-lab.pages.dev/articles/headphones-for-iphone.html</guid><pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate><description>イヤホンではなくヘッドホンを選ぶメリット・デメリットを、ノイキャン・音質・重さから比較します。</description></item>
+    <item><title>AirPods 4とAirPods Pro 3の違い</title><link>https://kurashi-lab.pages.dev/articles/airpods-4-vs-airpods-pro-3.html</link><guid>https://kurashi-lab.pages.dev/articles/airpods-4-vs-airpods-pro-3.html</guid><pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate><description>耳をふさぎにくいAirPods 4と、ノイキャン重視のAirPods Pro 3をiPhoneユーザー目線で比較します。</description></item>
+    <item><title>iPhoneユーザーがイヤホン選びで後悔しやすいポイント</title><link>https://kurashi-lab.pages.dev/articles/iphone-earphones-mistakes.html</link><guid>https://kurashi-lab.pages.dev/articles/iphone-earphones-mistakes.html</guid><pubDate>Thu, 02 Jul 2026 00:00:00 +0900</pubDate><description>AAC対応、アプリの使いやすさ、ノイキャンの効き方、装着感など、購入前に見落としやすい点を解説します。</description></item>
+</channel></rss>
