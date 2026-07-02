@@ -1,6 +1,6 @@
 // GA4 Measurement ID:
 // Replace only the value below, for example "G-XXXXXXXXXX", after creating a GA4 web data stream.
-const KURASHI_GA_MEASUREMENT_ID = "G-XXXXXXXXXX";
+const KURASHI_GA_MEASUREMENT_ID = "G-RQ5LSQJ95P";
 
 if (KURASHI_GA_MEASUREMENT_ID && KURASHI_GA_MEASUREMENT_ID !== "G-XXXXXXXXXX") {
   window.dataLayer = window.dataLayer || [];
