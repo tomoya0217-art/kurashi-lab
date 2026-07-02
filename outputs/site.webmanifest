@@ -1,23 +1,21 @@
 {
-  "name": "iPhoneイヤホン選びラボ",
-  "short_name": "iPhone音ラボ",
-  "description": "iPhoneで本当に使いやすいイヤホン・ヘッドホンを、わかりやすく徹底比較",
-  "lang": "ja",
+  "name": "iPhoneライフ",
+  "short_name": "iPhoneライフ",
+  "description": "iPhoneユーザーがイヤホン・ヘッドホン選びで後悔しないための、日本で一番わかりやすい比較サイト。",
   "start_url": "/",
-  "scope": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#2563eb",
+  "background_color": "#f8fafc",
+  "theme_color": "#1677ff",
   "icons": [
-    {
-      "src": "/assets/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
-    },
     {
       "src": "/assets/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
+    },
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
     }
   ]
 }

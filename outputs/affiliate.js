@@ -27,23 +27,23 @@
     return links;
   };
 
+  const applyLink = (button, href) => {
+    if (!href || href === "#") return;
+    button.href = href;
+    normalizeRel(button);
+  };
+
   const primaryLink = (links) => links.amazon || links.rakuten || links.yahoo || "";
 
-  document.querySelectorAll(".article-page").forEach((article) => {
-    const links = collectLinks(article.querySelector(".moshimo-ad-source"));
-    const mainHref = primaryLink(links);
+  document.querySelectorAll(".article-page, main").forEach((scope) => {
+    const templateLinks = collectLinks(scope.querySelector(".moshimo-ad-source"));
 
-    article.querySelectorAll("[data-moshimo-primary]").forEach((button) => {
-      if (!mainHref) return;
-      button.href = mainHref;
-      normalizeRel(button);
+    scope.querySelectorAll("[data-moshimo-primary]").forEach((button) => {
+      applyLink(button, primaryLink(templateLinks));
     });
 
-    article.querySelectorAll("[data-shop]").forEach((button) => {
-      const href = links[button.dataset.shop];
-      if (!href) return;
-      button.href = href;
-      normalizeRel(button);
+    scope.querySelectorAll("[data-shop]:not([data-product-link])").forEach((button) => {
+      applyLink(button, templateLinks[button.dataset.shop]);
     });
   });
 })();
