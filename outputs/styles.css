@@ -812,6 +812,10 @@ textarea:focus {
   margin-top: 18px;
 }
 
+.moshimo-ad-source {
+  display: none;
+}
+
 .affiliate-actions .button {
   width: 100%;
   max-width: 360px;

@@ -137,6 +137,12 @@
             <a href="#summary">まとめ</a>
           </aside>
           <div class="article-body">
+          <template class="moshimo-ad-source">
+            <!-- moshimo-affiliate-code:
+              ここに、もしもアフィリエイトの「かんたんリンク」広告コードを貼り付けてください。
+              affiliate.js が広告コード内の Amazon / 楽天 / Yahoo! リンクを読み取り、この記事内の購入ボタンへ自動反映します。
+            -->
+          </template>
             <section id="learn" class="notice key-takeaways">
               <h2>この記事でわかること</h2>
               <ul><li>乾燥性能と容量の見方がわかる</li><li>設置サイズで後悔しない確認手順がわかる</li><li>電気代、水道代、手入れの現実的な負担がわかる</li><li>家族人数別に向くタイプを判断できる</li></ul>
@@ -195,11 +201,11 @@
               <div class="table-wrap">
                 <table class="comparison-table wide-table">
                   <thead><tr><th>比較軸</th><th>良い点</th><th>注意点</th><th>向いている人</th><th>購入</th></tr></thead>
-                  <tbody><tr><th>少人数向け</th><td>本体が比較的コンパクト</td><td>まとめ洗いには弱い</td><td>1から2人暮らし</td><td class="table-cta"><div class="table-buy">  <!-- moshimo-affiliate: 比較表内CTA。href="#" を商品別の広告リンクに差し替えてください -->  <a class="button small price-check" href="#" rel="sponsored nofollow">価格をチェックする</a></div></td></tr>
-<tr><th>ファミリー向け</th><td>容量に余裕がある</td><td>設置スペースが必要</td><td>3人以上の家庭</td><td class="table-cta"><div class="table-buy">  <!-- moshimo-affiliate: 比較表内CTA。href="#" を商品別の広告リンクに差し替えてください -->  <a class="button small price-check" href="#" rel="sponsored nofollow">価格をチェックする</a></div></td></tr>
-<tr><th>乾燥重視</th><td>干す手間を減らせる</td><td>電気代とフィルター掃除に注意</td><td>共働き・子育て世帯</td><td class="table-cta"><div class="table-buy">  <!-- moshimo-affiliate: 比較表内CTA。href="#" を商品別の広告リンクに差し替えてください -->  <a class="button small price-check" href="#" rel="sponsored nofollow">価格をチェックする</a></div></td></tr>
-<tr><th>自動投入付き</th><td>洗剤投入の手間が減る</td><td>タンク清掃が必要</td><td>毎日の手間を減らしたい人</td><td class="table-cta"><div class="table-buy">  <!-- moshimo-affiliate: 比較表内CTA。href="#" を商品別の広告リンクに差し替えてください -->  <a class="button small price-check" href="#" rel="sponsored nofollow">価格をチェックする</a></div></td></tr>
-<tr><th>省スペース型</th><td>置ける家が増える</td><td>容量や機能が限られる場合</td><td>洗面所が狭い家</td><td class="table-cta"><div class="table-buy">  <!-- moshimo-affiliate: 比較表内CTA。href="#" を商品別の広告リンクに差し替えてください -->  <a class="button small price-check" href="#" rel="sponsored nofollow">価格をチェックする</a></div></td></tr></tbody>
+                  <tbody><tr><th>少人数向け</th><td>本体が比較的コンパクト</td><td>まとめ洗いには弱い</td><td>1から2人暮らし</td><td class="table-cta"><div class="table-buy">  <!-- moshimo-affiliate: この記事上部の template.moshimo-ad-source に貼った広告コードから自動反映されます -->  <a class="button small price-check" href="#" rel="sponsored nofollow" data-moshimo-primary>価格をチェックする</a></div></td></tr>
+<tr><th>ファミリー向け</th><td>容量に余裕がある</td><td>設置スペースが必要</td><td>3人以上の家庭</td><td class="table-cta"><div class="table-buy">  <!-- moshimo-affiliate: この記事上部の template.moshimo-ad-source に貼った広告コードから自動反映されます -->  <a class="button small price-check" href="#" rel="sponsored nofollow" data-moshimo-primary>価格をチェックする</a></div></td></tr>
+<tr><th>乾燥重視</th><td>干す手間を減らせる</td><td>電気代とフィルター掃除に注意</td><td>共働き・子育て世帯</td><td class="table-cta"><div class="table-buy">  <!-- moshimo-affiliate: この記事上部の template.moshimo-ad-source に貼った広告コードから自動反映されます -->  <a class="button small price-check" href="#" rel="sponsored nofollow" data-moshimo-primary>価格をチェックする</a></div></td></tr>
+<tr><th>自動投入付き</th><td>洗剤投入の手間が減る</td><td>タンク清掃が必要</td><td>毎日の手間を減らしたい人</td><td class="table-cta"><div class="table-buy">  <!-- moshimo-affiliate: この記事上部の template.moshimo-ad-source に貼った広告コードから自動反映されます -->  <a class="button small price-check" href="#" rel="sponsored nofollow" data-moshimo-primary>価格をチェックする</a></div></td></tr>
+<tr><th>省スペース型</th><td>置ける家が増える</td><td>容量や機能が限られる場合</td><td>洗面所が狭い家</td><td class="table-cta"><div class="table-buy">  <!-- moshimo-affiliate: この記事上部の template.moshimo-ad-source に貼った広告コードから自動反映されます -->  <a class="button small price-check" href="#" rel="sponsored nofollow" data-moshimo-primary>価格をチェックする</a></div></td></tr></tbody>
                 </table>
               </div>
             </section>
@@ -243,15 +249,12 @@
               <p>キャンペーン、在庫、料金、対応条件は変わることがあります。気になる候補が決まったら、公式情報や販売ページで最新条件を確認してから判断しましょう。</p>
               <!-- affiliate-link: href="#" をASPや広告主のリンクに差し替えてください -->
                             <div class="affiliate-actions" aria-label="購入先リンク">
-                <!-- moshimo-affiliate: メインCTA。href="#" をもしもアフィリエイトの広告リンクに差し替えてください -->
-                <a class="button primary price-check" href="#" rel="sponsored nofollow">価格をチェックする</a>
+                <!-- moshimo-affiliate: この記事上部の template.moshimo-ad-source に貼った広告コードから自動反映されます -->
+                <a class="button primary price-check" href="#" rel="sponsored nofollow" data-moshimo-primary>価格をチェックする</a>
                 <div class="shop-buttons">
-                  <!-- moshimo-affiliate: Amazonリンクに差し替え -->
-                  <a class="shop-button amazon" href="#" rel="sponsored nofollow">Amazon</a>
-                  <!-- moshimo-affiliate: 楽天市場リンクに差し替え -->
-                  <a class="shop-button rakuten" href="#" rel="sponsored nofollow">楽天</a>
-                  <!-- moshimo-affiliate: Yahoo!ショッピングリンクに差し替え -->
-                  <a class="shop-button yahoo" href="#" rel="sponsored nofollow">Yahoo!</a>
+                  <a class="shop-button amazon" href="#" rel="sponsored nofollow" data-shop="amazon">Amazon</a>
+                  <a class="shop-button rakuten" href="#" rel="sponsored nofollow" data-shop="rakuten">楽天</a>
+                  <a class="shop-button yahoo" href="#" rel="sponsored nofollow" data-shop="yahoo">Yahoo!</a>
                 </div>
               </div>
             </section>
@@ -274,15 +277,12 @@
               <p>最後に、この記事のチェックリストを使って候補を2つか3つに絞り、公式ページで最新条件を確認しましょう。家族で使うもの、毎日使うもの、月額費用が続くものほど、購入前の数分の確認が満足度を大きく左右します。納得できる理由が残ったものを選ぶことが、買ってから後悔しない一番の近道です。</p>
               <!-- affiliate-link: href="#" をASPや広告主のリンクに差し替えてください -->
                             <div class="affiliate-actions" aria-label="購入先リンク">
-                <!-- moshimo-affiliate: メインCTA。href="#" をもしもアフィリエイトの広告リンクに差し替えてください -->
-                <a class="button primary price-check" href="#" rel="sponsored nofollow">価格をチェックする</a>
+                <!-- moshimo-affiliate: この記事上部の template.moshimo-ad-source に貼った広告コードから自動反映されます -->
+                <a class="button primary price-check" href="#" rel="sponsored nofollow" data-moshimo-primary>価格をチェックする</a>
                 <div class="shop-buttons">
-                  <!-- moshimo-affiliate: Amazonリンクに差し替え -->
-                  <a class="shop-button amazon" href="#" rel="sponsored nofollow">Amazon</a>
-                  <!-- moshimo-affiliate: 楽天市場リンクに差し替え -->
-                  <a class="shop-button rakuten" href="#" rel="sponsored nofollow">楽天</a>
-                  <!-- moshimo-affiliate: Yahoo!ショッピングリンクに差し替え -->
-                  <a class="shop-button yahoo" href="#" rel="sponsored nofollow">Yahoo!</a>
+                  <a class="shop-button amazon" href="#" rel="sponsored nofollow" data-shop="amazon">Amazon</a>
+                  <a class="shop-button rakuten" href="#" rel="sponsored nofollow" data-shop="rakuten">楽天</a>
+                  <a class="shop-button yahoo" href="#" rel="sponsored nofollow" data-shop="yahoo">Yahoo!</a>
                 </div>
               </div>
             </section>
@@ -294,6 +294,7 @@
       <p>&copy; 2026 暮らしの選び方ラボ</p>
       <div><a href="../articles.html">記事一覧</a><a href="../contact.html">お問い合わせ</a><a href="../privacy.html">プライバシーポリシー</a></div>
     </footer>
+    <script src="../affiliate.js"></script>
     <script src="../script.js"></script>
   </body>
 </html>
