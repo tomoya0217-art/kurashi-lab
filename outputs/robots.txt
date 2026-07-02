@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://kurashi-lab.pages.dev/sitemap.xml

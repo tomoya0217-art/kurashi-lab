@@ -1,21 +1,16 @@
 {
   "name": "iPhoneライフ",
   "short_name": "iPhoneライフ",
-  "description": "iPhoneユーザーがイヤホン・ヘッドホン選びで後悔しないための、日本で一番わかりやすい比較サイト。",
+  "description": "iPhoneユーザーのためのオーディオ専門メディア。Apple、Sony、Bose、Anker、Beatsに絞り、イヤホン・ヘッドホン選びで後悔しない比較と選び方を解説します。",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f8fafc",
+  "background_color": "#ffffff",
   "theme_color": "#1677ff",
   "icons": [
     {
       "src": "/assets/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
-    },
-    {
-      "src": "/assets/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
     }
   ]
 }

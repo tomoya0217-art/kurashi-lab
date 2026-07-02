@@ -1,33 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://kurashi-lab.pages.dev/</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/complete-comparison.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/ranking.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/price-range.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/use-case.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/airpods-comparison.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/noise-cancelling.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/headphones.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/editorial-policy.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/profile.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/contact.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/privacy.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/disclaimer.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/404.html</loc><lastmod>2026-07-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/iphone-earphones-ranking.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/airpods-pro-3-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/airpods-pro-3-vs-sony-wf-1000xm6.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/noise-cancelling-earphones-iphone.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/budget-earphones-iphone.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/commute-earphones-iphone.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/call-quality-earphones-iphone.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/headphones-for-iphone.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/airpods-4-vs-airpods-pro-3.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/iphone-earphones-mistakes.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/airpods-pro-3-vs-airpods-4.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/airpods-pro-3-vs-bose-qc-ultra-earbuds-2.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/airpods-pro-3-vs-anker-liberty-4-pro.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/sony-wf-1000xm6-vs-bose-qc-ultra-earbuds-2.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://kurashi-lab.pages.dev/articles/airpods-max-vs-sony-wh-1000xm6.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/404.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/airpods-comparison.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/anker-vs-beats.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/anker.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/apple-vs-anker.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/apple-vs-beats.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/apple-vs-bose.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/apple-vs-sony.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/apple.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/airpods-4-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/airpods-4-vs-airpods-pro-3.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/airpods-max-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/airpods-pro-3-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/airpods-pro-3-vs-airpods-max.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/anker-earphones-comparison.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/anker-liberty-4-pro-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/anker-space-one-pro-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/beats-comparison.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/beats-fit-pro-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/beats-studio-buds-plus-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/bose-qc-ultra-earbuds-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/bose-qc-ultra-headphones-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/sony-wf-1000xm6-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/sony-wf-vs-wh.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/articles/sony-wh-1000xm6-review.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/beats.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/bose-vs-anker.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/bose-vs-beats.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/bose.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/complete-comparison.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/contact.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/disclaimer.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/editorial-policy.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/headphones.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/noise-cancelling.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/price-range.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/privacy.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/profile.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/ranking.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/sony-vs-anker.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/sony-vs-beats.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/sony-vs-bose.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/sony.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://kurashi-lab.pages.dev/use-case.html</loc><lastmod>2026-07-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
