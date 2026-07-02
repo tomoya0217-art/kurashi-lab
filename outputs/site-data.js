@@ -77,9 +77,27 @@ window.IPHONE_LIFE_DATA = {
         template: "default",
         shops: {
           amazon: { url: "#", html: "" },
-          rakuten: { url: "#", html: "" },
-          yahoo: { url: "#", html: "" },
+          rakuten: {
+            url: "https://item.rakuten.co.jp/keitai-god2a/o549995635232/",
+            html: "",
+          },
+          yahoo: {
+            url: "https://shopping.yahoo.co.jp/search?first=1&p=%E3%80%90%E6%96%B0%E5%93%81%E6%9C%AA%E9%96%8B%E5%B0%81%E3%83%BB%E4%BF%9D%E8%A8%BC%E9%96%8B%E5%A7%8B%E6%B8%88%E3%81%BF%E3%80%91AirPods%20Pro%203%20MFHP4J%2FA%20%E3%80%90%E6%97%A5%E6%9B%9C%E6%97%A5%E4%BB%A5%E5%A4%96%E5%8D%B3%E6%97%A5%E7%99%BA%E9%80%81%E3%80%91%E3%80%90%E9%80%81%E6%96%99%E7%84%A1%E6%96%99%E3%80%91",
+            html: "",
+          },
         },
+        easyLinkHtml: String.raw`<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"【新品未開封・保証開始済み】AirPods Pro 3 MFHP4J\/A 【日曜日以外即日発送】【送料無料】","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":["\/@0_mall\/keitai-god2a\/cabinet\/4549995635232.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/keitai-god2a\/o549995635232\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":2,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E3%80%90%E6%96%B0%E5%93%81%E6%9C%AA%E9%96%8B%E5%B0%81%E3%83%BB%E4%BF%9D%E8%A8%BC%E9%96%8B%E5%A7%8B%E6%B8%88%E3%81%BF%E3%80%91AirPods%20Pro%203%20MFHP4J%2FA%20%E3%80%90%E6%97%A5%E6%9B%9C%E6%97%A5%E4%BB%A5%E5%A4%96%E5%8D%B3%E6%97%A5%E7%99%BA%E9%80%81%E3%80%91%E3%80%90%E9%80%81%E6%96%99%E7%84%A1%E6%96%99%E3%80%91","a_id":5663518,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":0},{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/keitai-god2a\/o549995635232\/","a_id":5663517,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"F2SpD","s":"s"});
+</script>
+<div id="msmaflink-F2SpD">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->`,
       },
     },
     "airpods-max": {
