@@ -367,3 +367,10 @@ h3{
 .hidden-note{max-width:1180px;margin:0 auto;color:var(--muted);font-size:.92rem}
 @media(max-width:1080px){.brand-route-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:720px){.brand-route-grid{grid-template-columns:1fr}.brand-tabs a{width:100%}}
+
+
+/* purchase-decision-upgrade */
+.decision-summary{display:grid;gap:18px}
+.decision-summary .content-panel ul,.three-line-summary ul{margin:8px 0 0;padding-left:1.2em;color:var(--muted)}
+.rating-cell{font-weight:900;color:#f59e0b;white-space:nowrap}
+.three-line-summary{display:grid;gap:14px}
