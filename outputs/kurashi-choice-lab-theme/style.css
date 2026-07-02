@@ -1,0 +1,55 @@
+/*
+Theme Name: Kurashi Choice Lab
+Theme URI: https://example.com/
+Author: Kurashi Choice Lab
+Author URI: https://example.com/
+Description: 「買ってから後悔しない、暮らしのアイテム選び」をコンセプトにしたSEOアフィリエイトブログ向けWordPressテーマ。
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: kurashi-choice-lab
+Tags: blog, custom-menu, featured-images, right-sidebar, threaded-comments, translation-ready
+*/
+
+@import url("assets/css/site.css");
+
+.screen-reader-text {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.wp-caption,
+.wp-caption-text,
+.gallery-caption,
+.bypostauthor,
+.alignleft,
+.alignright,
+.aligncenter {
+  max-width: 100%;
+}
+
+.aligncenter {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.alignleft {
+  float: left;
+  margin: 0 1.5rem 1rem 0;
+}
+
+.alignright {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+}
