@@ -14,10 +14,12 @@
 Cloudflare Pagesでは以下の設定で公開できます。
 
 - Framework preset: `None`
-- Deploy command: `npx wrangler pages deploy outputs --project-name=kurashi-lab`
+- Build command: `exit 0`
 - Build output directory: `outputs`
 
-`wrangler.toml` にも `pages_build_output_dir = "outputs"` を設定しています。
+Git連携では `npx wrangler pages deploy outputs --project-name=kurashi-lab` をBuild command内で実行しないでください。Cloudflare PagesがGitHubのコミットを受け取り、Build output directoryの内容を自動でアップロードします。
+
+`wrangler.toml` にも `pages_build_output_dir = "outputs"` と `compatibility_date` を設定しています。
 
 `outputs/index.html` が公開トップページです。
 
